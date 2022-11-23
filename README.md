@@ -35,7 +35,7 @@
   <a href = "mailto:vitorflavio14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://web.whatsapp.com/" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vitorFlavio/vitorFlavio/blob/output/github-contribution-grid-snake.svg)
 </div> 
  <div style="display: inline_block"><br>
  <h3 align="left">Languages and Tools:</h3>
